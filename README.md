@@ -1,3 +1,3 @@
-# ReactJS Star Rating System
+# Star Rating System UI
 
-A simple 5 Star Rating System built using React JS
+A basic Star Rating System UI built using React
